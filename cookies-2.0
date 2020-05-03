@@ -1,0 +1,8 @@
+<?php
+<!-- Inicio Cookies -->
+<script type="text/javascript">
+        window.cookieconsent_options = {"message":"Este sitio web hace uso de Cookies para mejorar su experiencia de navegación, si desea aceptarlas pulse el botón, si desea leerlas pulse en Más info.","dismiss":"¡Acepto!","learnMore":"Más info","link":"<?php bloginfo('home');?>/aviso-legal-y-politicas-de-privacidad/","theme":"dark-bottom"};
+</script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+<!-- End Cookies -->
+?>
